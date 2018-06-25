@@ -3,7 +3,7 @@
 
 **Codes for replication and implementation of techniques in our credit risk article**. 
 
-In this repo, we provide codes used in the paper [http://www.mdpi.com/2227-9091/6/2/38]("Credit Risk Analysis Using Machine and Deep Learning Models"). Given that we can not provide access to the dataset, we have generated data with 10 observations keeping the same structure as original data. We made use of [H2o](https://www.h2o.ai), which is an open-source machine learning platform for enterprises.  
+In this repo, we provide codes used in the ["Credit Risk Analysis Using Machine and Deep Learning Models"](http://www.mdpi.com/2227-9091/6/2/38). Given that we can not provide access to the dataset, we have generated data with 10 observations keeping the same structure as original data. We made use of [H2o](https://www.h2o.ai), which is an open-source machine learning platform for enterprises.  
 
 
 * `CreditRisk_Main.Rmd` contains all you need to replicate or adapted the code for your usecase :) 
